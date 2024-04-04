@@ -13,7 +13,7 @@ function UpdateLeadDate(event)
    console.log('input date is '+ inputdate1.value); 
 }
 else{
-    alert(Please select captcha);
+    alert('Please select captcha');
     event.preventDefault(); 
 }
 }
